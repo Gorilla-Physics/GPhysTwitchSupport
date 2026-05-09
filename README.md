@@ -11,10 +11,10 @@ A mod that simply adds twitch and youtube support.
 - Done!
 
 ## Commands
-!spawnobject "name"
-!killplayer
-!damageplayer 0-200
-!healplayer 0-200 (doesn't work sometimes)
-!canister "fast, poison, classic, or baby" 1-2,147,483,647
-!explosion
-!cleanup
+!spawnobject "name"      
+!killplayer      
+!damageplayer 0-200      
+!healplayer 0-200 (doesn't work sometimes)      
+!canister "fast, poison, classic, or baby" 1-2,147,483,647      
+!explosion      
+!cleanup      
